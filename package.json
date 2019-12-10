@@ -4,7 +4,7 @@
   "description": "A proxy for a Soundcloud song page clone separated into microservices",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
     "start": "nodemon index.js"
   },
   "repository": {
