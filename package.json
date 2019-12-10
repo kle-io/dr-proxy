@@ -1,0 +1,23 @@
+{
+  "name": "dr-proxy",
+  "version": "1.0.0",
+  "description": "A proxy for a Soundcloud song page clone separated into microservices",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kle-io/dr-proxy.git"
+  },
+  "author": "Desmond Rogers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kle-io/dr-proxy/issues"
+  },
+  "homepage": "https://github.com/kle-io/dr-proxy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

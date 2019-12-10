@@ -1,0 +1,12 @@
+[submodule "main-song-player"]
+	path = services/main-song-player
+	url = https://github.com/kle-io/main-song-player.git
+[submodule "sidebar-service"]
+	path = services/sidebar-service
+	url = https://github.com/kle-io/sidebar-service.git
+[submodule "services/toolbar"]
+	path = services/toolbar
+	url = https://github.com/kle-io/toolbar.git
+[submodule "services/Comment-Section"]
+	path = services/Comment-Section
+	url = https://github.com/kle-io/Comment-Section.git
